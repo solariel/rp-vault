@@ -13,6 +13,8 @@ module:
   dblog: 0
   dynamic_page_cache: 0
   editor: 0
+  entity: 0
+  entity_generic: 0
   field: 0
   file: 0
   filter: 0
