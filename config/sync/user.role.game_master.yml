@@ -1,0 +1,9 @@
+uuid: 02e9e4d4-6dfd-4bff-9bd9-8154b07bfe31
+langcode: en
+status: true
+dependencies: {  }
+id: game_master
+label: 'Game master'
+weight: 4
+is_admin: null
+permissions: {  }

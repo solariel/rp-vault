@@ -1,0 +1,14 @@
+uuid: 8f962e03-dca0-4859-858a-e56a4b1a9905
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.game_master
+  module:
+    - user
+id: user_add_role_action.game_master
+label: 'Add the Game master role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: game_master
