@@ -1,13 +1,13 @@
-uuid: 3894cb70-b0f4-44a9-8db1-f553174b7be1
+uuid: 6601588e-d036-4f84-80e5-53d4bb339bb7
 langcode: en
 status: true
 dependencies:
   theme:
-    - bootstrap_barrio_subtheme
+    - vault
 _core:
   default_config_hash: c-06bbElRY5sKmglk74ppgTW93Et4-EJFyNiUZMb8JY
-id: bootstrap_barrio_subtheme_local_tasks
-theme: bootstrap_barrio_subtheme
+id: vault_local_tasks
+theme: vault
 region: content
 weight: -20
 provider: null

@@ -1,13 +1,13 @@
-uuid: 769d86fe-3592-44f0-914f-341df6d9efdf
+uuid: 81019b5d-8dd2-402c-993e-a744197fc8a4
 langcode: en
 status: true
 dependencies:
   theme:
-    - bootstrap_barrio_subtheme
+    - vault
 _core:
   default_config_hash: 8yptDf6WrXxeyevUz4nP5vfr7BtxQqCBMninhV2IJ1g
-id: bootstrap_barrio_subtheme_page_title
-theme: bootstrap_barrio_subtheme
+id: vault_page_title
+theme: vault
 region: content
 weight: -30
 provider: null
