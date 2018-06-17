@@ -1,0 +1,14 @@
+uuid: 51d76d8e-27f1-4ebb-9ae1-e9796ad6a2ad
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.game_master
+  module:
+    - user
+id: user_remove_role_action.game_master
+label: 'Remove the Game master role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: game_master

@@ -1,0 +1,34 @@
+uuid: bcdf32d2-a231-45f6-81a6-a8bc32ecf0ef
+langcode: en
+status: true
+dependencies: {  }
+id: content_manager
+label: 'Content manager'
+weight: 3
+is_admin: null
+permissions:
+  - 'access content overview'
+  - 'access contextual links'
+  - 'access files overview'
+  - 'access media overview'
+  - 'access taxonomy overview'
+  - 'access toolbar'
+  - 'administer image styles'
+  - 'administer nodes'
+  - 'create content translations'
+  - 'create media'
+  - 'create url aliases'
+  - 'delete all revisions'
+  - 'delete any media'
+  - 'delete content translations'
+  - 'delete media'
+  - 'revert all revisions'
+  - 'translate any entity'
+  - 'translate user'
+  - 'update any media'
+  - 'update content translations'
+  - 'update media'
+  - 'view all media revisions'
+  - 'view all revisions'
+  - 'view own unpublished content'
+  - 'view the administration theme'

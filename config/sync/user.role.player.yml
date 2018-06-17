@@ -1,0 +1,9 @@
+uuid: df0001c4-f8ec-46d3-aab3-7fd772f5b24c
+langcode: en
+status: true
+dependencies: {  }
+id: player
+label: Player
+weight: 5
+is_admin: null
+permissions: {  }
